@@ -12,6 +12,8 @@
 
 Bez is a swift package aimed at making Bézier curves easy to work with and manipulate. 
 
+(Forked from [Kieran](https://github.com/kieranb662))
+
 Try out all that bez has to offer by creating your own shapes using the [bez editor](https://apps.apple.com/us/app/bez-editor/id1508764103) app available for free on iOS 13.4 and greater. 
 
 <p align="center">
@@ -70,7 +72,7 @@ struct ContentView_Previews: PreviewProvider {
 
 ## Example Uses 
 
-The `PSlider` component of the [Sliders](https://github.com/kieranb662/Sliders) SwiftUI Library 
+The `PSlider` component of the [Sliders](https://github.com/HeyRoseKay/SwiftUI-Sliders) SwiftUI Library 
 <p align="center">
 <img src="https://github.com/kieranb662/SlidersExamples/blob/master/Sliders%20Media/PSliderExample.gif" alt="Path Slider Gif" height=500>
    </p>
